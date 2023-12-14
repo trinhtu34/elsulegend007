@@ -1,0 +1,18 @@
+Ma oto: bge456
+Loai xe: Xe May
+Ten xe: Honda Winner X
+Thuong hieu: Honda
+Gia nhap: 17.990.000
+Gia ban: 19.900.000
+Thoi gian nhap: 05/07/2023
+Thoi gian ban: 12/09/2024
+--------------------------------
+Ma oto: tyt58c21
+Loai xe: Xe 4 Cho
+Ten xe: Toyota Innova Cross
+Thuong hieu: Toyota
+Gia nhap: 732.000.000
+Gia ban: 810.000.000
+Thoi gian nhap: 06/04/2020
+Thoi gian ban: 16/09/2021
+--------------------------------

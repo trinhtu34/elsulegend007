@@ -1,0 +1,64 @@
+Ma oto: md15atc67
+Loai xe: Xe 4 Cho
+Ten xe: New Mazda 1.5L At
+Thuong hieu: Mazda
+Gia nhap: 395.000.000
+Gia ban: 415.000.000
+Thoi gian nhap: 14/06/2018
+--------------------------------
+Ma oto: rptvq23
+Loai xe: Xe 4 Cho
+Ten xe: Rolls Royce Phantom Fire
+Thuong hieu: Rolls Royce
+Gia nhap: 15.350.000.000
+Gia ban: 16.600.000.000
+Thoi gian nhap: 25/05/2022
+--------------------------------
+Ma oto: kia50c17
+Loai xe: Xe 4 Cho
+Ten xe: Kia Morning
+Thuong hieu: Kia
+Gia nhap: 467.000.000
+Gia ban: 512.300.000
+Thoi gian nhap: 04/05/2020
+--------------------------------
+Ma oto: nisna4x4
+Loai xe: Xe Ban Tai
+Ten xe: Navara 4Wd 4X4 At Vl
+Thuong hieu: Ford
+Gia nhap: 894.000.000
+Gia ban: 945.000.000
+Thoi gian nhap: 12/04/2018
+--------------------------------
+Ma oto: ftrstd
+Loai xe: Xe 7 Cho
+Ten xe: Ford Transit Standard
+Thuong hieu: Ford
+Gia nhap: 768.000.000
+Gia ban: 849.000.000
+Thoi gian nhap: 05/09/2017
+--------------------------------
+Ma oto: bmwdx7
+Loai xe: Xe 4 Cho
+Ten xe: Bmw X7 2024
+Thuong hieu: Bmw
+Gia nhap: 4.720.000.000
+Gia ban: 5.149.000.000
+Thoi gian nhap: 12/11/2020
+--------------------------------
+Ma oto: suzukiE2021
+Loai xe: Xe 7 Cho
+Ten xe: Suzuki Ertiga 2021
+Thuong hieu: Suzuki
+Gia nhap: 321.000.000
+Gia ban: 395.000.000
+Thoi gian nhap: 12/05/2019
+--------------------------------
+Ma oto: rr200tvt
+Loai xe: Xe 4 Cho
+Ten xe: Rolls Royce Phantom Fire
+Thuong hieu: Rolls Royce
+Gia nhap: 14.400.000.000
+Gia ban: 16.600.000.000
+Thoi gian nhap: 09/07/2022
+--------------------------------

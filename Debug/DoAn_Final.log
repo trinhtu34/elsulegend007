@@ -1,0 +1,31 @@
+﻿  Program.cpp
+  Source.cpp
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(64,57): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(65,56): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(90,23): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(704,24): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(970,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(970,17): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1040,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1041,61): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1070,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1071,61): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1100,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1101,61): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1134,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1135,61): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1152,85): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1168,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1169,61): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1233,62): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1234,61): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1262,17): warning C4566: character represented by universal-character-name '\u1EC3' cannot be represented in the current code page (1252)
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1262,17): warning C4566: character represented by universal-character-name '\u1EDF' cannot be represented in the current code page (1252)
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1361,55): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1362,54): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1486,25): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1520,25): warning C4566: character represented by universal-character-name '\u0111' cannot be represented in the current code page (1252)
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1610,56): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Source.cpp(1610,46): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+  Generating Code...
+  DoAn_Final.vcxproj -> C:\Users\Betrayer\OneDrive\Desktop\verification\DoAn_Final\Debug\DoAn_Final.exe
